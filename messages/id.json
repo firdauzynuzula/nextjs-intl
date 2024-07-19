@@ -1,0 +1,16 @@
+{
+    "IndexPage": {
+        "title": "halaman utama",
+        "description": "selamat datang di halaman utama dari website ini.Ini merupakan contoh dari penerapan next-js intl"
+    },
+    "NotFoundPage": {
+        "title": "Halaman yang salah bro",
+        "description": "halaman yang salah dari website ini "
+    },
+    "Navigation": {
+        "home": "Beranda"
+    },
+    "Footer": {
+        "title": "Juli 2024, Next-Js intl"
+    }
+}

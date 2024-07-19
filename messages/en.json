@@ -1,0 +1,16 @@
+{
+    "IndexPage": {
+        "title": "Main page",
+        "description": "Welcome to main Page of this website. This is an implementation of next-js intl"
+    },
+    "NotFoundPage": {
+        "title": "Oppss, it is wrong page bro",
+        "description": "Wrong Page of this website"
+    },
+    "Navigation": {
+        "home": "Home"
+    },
+    "Footer": {
+        "title": "July 2024 , Next-Js intl"
+    }
+}
